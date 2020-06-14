@@ -1,4 +1,4 @@
-# NodeJS-MongoDB-Demo
+# NodeJS-MongoDB-Demo by BBuayz
 
 This is an example NodeJS application that works with MongoDB on Clever Cloud.
 
